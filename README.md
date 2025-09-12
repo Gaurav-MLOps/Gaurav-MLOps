@@ -1,44 +1,49 @@
-<!-- GitHub Profile README for Gaurav Singh -->
+<!-- 🚀 Final Polished GitHub Profile README for Gaurav Singh -->
+
+<h1 align="center">👋 Hi, I'm Gaurav Singh</h1>
+<h3 align="center">Aspiring Data Scientist • MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+•+MLOps+Enthusiast;Currently+learning+Python%2C+NumPy%2C+Pandas%2C+Docker%2C+ML;Exploring+AI+projects+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=9b59ff&center=true&vCenter=true&width=850&lines=🎓+Passionate+about+AI,+Data+Science+%26+MLOps;🌱+Currently+learning+Python,+NumPy,+Pandas,+Docker+%26+ML;🚀+Exploring+AI+Projects,+MLOps+Pipelines,+and+Deployments" alt="Typing SVG" />
 </p>
 
 ---
 
+## 📊 GitHub Metrics Dashboard
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/gaurav-mlops?template=classic&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" width="90%" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/beginner-python-projects">
-    <img src="https://img.shields.io/badge/-Beginner%20Python%20Projects-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://github.com/Gaurav-MLOps/beginner-python-projects">
+    <img src="https://img.shields.io/badge/🎲%20Beginner%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/numpy-mini-labs">
-    <img src="https://img.shields.io/badge/-NumPy%20Mini%20Labs-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <a href="https://github.com/Gaurav-MLOps/numpy-beginner-projects">
+    <img src="https://img.shields.io/badge/🔢%20NumPy%20Mini%20Labs-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/dockerized-ml">
-    <img src="https://img.shields.io/badge/-Dockerized%20ML-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://github.com/Gaurav-MLOps/docker-projects">
+    <img src="https://img.shields.io/badge/🐳%20Dockerized%20ML-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
 </p>
 
@@ -47,8 +52,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=gaurav-mlops&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-mlops&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
 </p>
 
 ---
@@ -56,44 +61,32 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-mlops&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 🐍 Snake Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gaurav-mlops/gaurav-mlops/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gauravsingh-ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:gauravsingh.ai@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav's GitHub views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav-mlops.gaurav-mlops" alt="Visitor Badge" />
 </p>
-## Hi there 👋
-
-<!--
-**Gaurav-MLOps/Gaurav-MLOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
