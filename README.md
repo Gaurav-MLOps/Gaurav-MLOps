@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Data Scientist • MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=9b59ff&center=true&vCenter=true&width=850&lines=🎓+Passionate+about+AI,+Data+Science+%26+MLOps;🌱+Currently+learning+Python,+NumPy,+Pandas,+Docker+%26+ML;🚀+Exploring+AI+Projects,+MLOps+Pipelines,+and+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=9b59FF&center=true&vCenter=true&width=850&lines=🎓+Passionate+about+AI,+Data+Science+%26+MLOps;🌱+Currently+learning+Python,+NumPy,+Pandas,+Docker+%26+ML;🚀+Exploring+AI+Projects,+MLOps+Pipelines,+and+Deployments" alt="Typing SVG" />
 </p>
 
 ---
