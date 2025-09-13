@@ -61,14 +61,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-mlops&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6" alt="Trophies" />
-</p>
-
----
-
 ## 🌱 Contribution Board (All Green)
 
 <p align="center">
