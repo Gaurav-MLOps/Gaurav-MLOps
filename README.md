@@ -69,10 +69,18 @@
 
 ---
 
-## 🕹️ Dev Joke of the Day
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" />
+  <img src="https://raw.githubusercontent.com/gaurav-mlops/gaurav-mlops/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
