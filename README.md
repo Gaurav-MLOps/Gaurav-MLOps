@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=9b59FF&center=true&vCenter=true&width=850&lines=🎓+Passionate+about+AI,+Data+Science+%26+MLOps;🌱+Currently+learning+Python,+NumPy,+Pandas,+Docker+%26+ML;🚀+Exploring+AI+Projects,+MLOps+Pipelines,+and+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=9b59FF&center=true&vCenter=true&width=850&lines=🎓+Passionate+about+AI,+Data+Science+%26+MLOps;🌱+Currently+learning+Python,+NumPy,+Pandas,+Docker+%26+ML;🚀+Exploring+AI+Projects,+MLOps+Pipelines,+and+Deployments" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 GitHub Metrics Dashboard
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/gaurav-mlops?template=classic&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-mlops&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Gaurav-MLOps/gaurav-mlops/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/gaurav-mlops/gaurav-mlops/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
