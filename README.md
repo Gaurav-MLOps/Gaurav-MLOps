@@ -69,6 +69,13 @@
 
 ---
 
+## 🌱 Contribution Board (All Green)
+
+<p align="center">
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='848' height='112' viewBox='0 0 848 112'><defs><pattern id='p' width='16' height='16' patternUnits='userSpaceOnUse'><rect width='12' height='12' rx='2' ry='2' fill='%2316a34a'/></pattern></defs><rect width='848' height='112' fill='url(%23p)'/></svg>" alt="All-green contributions" />
+</p>
+
+---
 ## 🕹️ Dev Joke of the Day
 
 <p align="center">
@@ -100,9 +107,4 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav-mlops.gaurav-mlops" alt="Visitor Badge" />
-</p>
-## 🌱 Custom Contribution Board
-
-<p align="center">
-  <img src="https://i.ibb.co/7rJdx0J/fake-green-contributions.png" alt="Fake Full Green Contributions" />
 </p>
