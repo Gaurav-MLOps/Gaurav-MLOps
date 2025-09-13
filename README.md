@@ -101,3 +101,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav-mlops.gaurav-mlops" alt="Visitor Badge" />
 </p>
+## 🌱 Custom Contribution Board
+
+<p align="center">
+  <img src="https://i.ibb.co/7rJdx0J/fake-green-contributions.png" alt="Fake Full Green Contributions" />
+</p>
