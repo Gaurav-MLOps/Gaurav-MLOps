@@ -69,10 +69,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Dev Joke of the Day
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gaurav-mlops/gaurav-mlops/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" />
 </p>
 
 ---
