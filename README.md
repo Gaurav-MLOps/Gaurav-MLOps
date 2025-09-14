@@ -1,5 +1,3 @@
-<!-- 🚀 Enhanced GitHub Profile README for Gaurav Singh -->
-
 <h1 align="center">👋 Hi, I'm Gaurav Singh</h1>
 <h3 align="center">🚀 Data Science Explorer | 📊 MLOps Learner | 🤖 AI Enthusiast</h3>
 
