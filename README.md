@@ -43,6 +43,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🎲 Beginner Python Projects](https://github.com/Gaurav-MLOps/beginner-python-projects) | Small Python projects to strengthen core concepts. | Python 🐍 |
+| [🌦️ Weather App](https://github.com/Gaurav-MLOps/Weather-App) | Simple yet effective Weather App built to demonstrate API integration and data visualization. | Python + API + DataViz ☁️ |
 | [🔢 NumPy Mini Labs](https://github.com/Gaurav-MLOps/numpy-beginner-projects) | Hands-on mini experiments with NumPy for learning linear algebra & data ops. | NumPy 📊 |
 | [🐳 Dockerized ML](https://github.com/Gaurav-MLOps/docker-projects) | Machine Learning apps containerized with Docker for reproducibility. | Docker + ML 🚀 |
 
@@ -55,6 +56,14 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gaurav-mlops&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-mlops&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-mlops&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
