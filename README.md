@@ -22,27 +22,128 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" alt="Keras" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50" alt="Docker" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" alt="FastAPI" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="50" alt="Plotly" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Keras -->
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+  
+  <!-- Plotly -->
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="50" height="50" style="transition:transform 0.3s ease;"/>
+  </a>
+</p>
+
+<style>
+  .tech-stack img:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+  }
+</style>
+
+<script>
+  // Add hover effect using JavaScript since GitHub sanitizes CSS
+  document.addEventListener('DOMContentLoaded', function() {
+    const techIcons = document.querySelectorAll('a[href*="python"], a[href*="numpy"], a[href*="pandas"], a[href*="pytorch"], a[href*="tensorflow"], a[href*="keras"], a[href*="docker"], a[href*="fastapi"], a[href*="git-scm"], a[href*="github"], a[href*="jupyter"], a[href*="mysql"], a[href*="postgresql"], a[href*="linux"], a[href*="visualstudio"], a[href*="azure"], a[href*="google"], a[href*="matplotlib"], a[href*="plotly"]');
+    
+    techIcons.forEach(icon => {
+      const img = icon.querySelector('img');
+      if (img) {
+        icon.addEventListener('mouseenter', () => {
+          img.style.transform = 'scale(1.2)';
+        });
+        icon.addEventListener('mouseleave', () => {
+          img.style.transform = 'scale(1)';
+        });
+      }
+    });
+  });
+</script>
 
 ---
 
