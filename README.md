@@ -69,16 +69,26 @@
 > Small Python projects to strengthen core concepts
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ### 🌦️ [Weather App](https://github.com/Gaurav-MLOps/Weather-App)
 > Simple yet effective Weather App built to demonstrate API integration and data visualization
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-FF6F00?style=flat&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataViz-430098?style=flat&logo=chart-dots&logoColor=white" />
-</p>
+## 🛠️ Tech Stack Used
+
+### 🔧 Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### 🌐 API & Data
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeather-7FBB00?style=for-the-badge&logo=openweathermap&logoColor=white)
+
+### 💾 Data Management
+![CSV](https://img.shields.io/badge/CSV-Data_Storage-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-430098?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🔢 [NumPy Mini Labs](https://github.com/Gaurav-MLOps/numpy-beginner-projects)
 > Hands-on mini experiments with NumPy for learning linear algebra & data ops
