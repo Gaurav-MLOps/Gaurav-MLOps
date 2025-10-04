@@ -148,5 +148,4 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav-mlops.gaurav-mlops" alt="Visitor Badge" />
-</p>
- this is, in this code i dont need names of the lang i used i want icons as it were before
+</p
